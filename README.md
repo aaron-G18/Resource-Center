@@ -46,6 +46,9 @@ This site will make it easier to share and organize resources company-wide that 
 - **Kate Jamboretz** - _Initial Models & Routes, Delete Full Stack, Initial Unique Category Array Function, Update Route & Controller, Favicon, Initial Page Routing, README_ - [katejamboretz](https://github.com/katejamboretz)
 - **UCB Full Stack Development Program** - _provide generic MVP starter code & file structure for CRUD application_
 
+##Original Repo
+[Original Repo](https://github.com/broken-guitar/project-3)
+
 ## Acknowledgments
 
 - UC Berkeley Extension Full Stack Development 2020 Instructor, TAs and classmates
