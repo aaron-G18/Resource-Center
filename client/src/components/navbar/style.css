@@ -1,0 +1,51 @@
+.navbar {
+    color: white;
+}
+
+.navbar-nav {
+    float: right;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.nav-item {
+    display: inline-block;
+    margin-left: 3px;
+
+}
+
+.peace {
+    vertical-align: 2px;
+}
+
+.heart {
+    vertical-align: 2px;
+}
+
+.home {
+    vertical-align: 3px;
+}
+
+.task-button {
+    color: #f77e8a;
+    background-color: #636262;
+    border-style: solid;
+    outline: 1px #f77e8a;
+    border-radius: .25rem;
+}
+
+.task-button:hover {
+    background-color: #f77e8a;
+    transition: 0.3s;
+    color: white;
+}
+
+.logout {
+    margin-right: 16px;
+}
+
+h3 {
+    text-align: center;
+}
