@@ -15,7 +15,7 @@ This site will make it easier to share and organize resources company-wide that 
 
 ## Link to Deployed Site
 
-[Resource Center](https://serene-kobuk-valley-06720.herokuapp.com/)
+[Resource Center](https://nameless-peak-44869.herokuapp.com/)
 
 ## Built With
 
