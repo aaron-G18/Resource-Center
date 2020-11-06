@@ -15,7 +15,7 @@ This site will make it easier to share and organize resources company-wide that 
 
 ## Link to Deployed Site
 
-[Resource Center](https://serene-kobuk-valley-06720.herokuapp.com/)
+[Resource Center](https://nameless-peak-44869.herokuapp.com/)
 
 ## Built With
 
@@ -45,6 +45,9 @@ This site will make it easier to share and organize resources company-wide that 
 - **David Flores** - _Deploy to Heroku & Populate Deployed Site with Data, Task Bar Full Stack, Style Login Page, Improved Model Validation, Initial Seed File & Logic, Initial Resource Router & Controller, Initiate Github Repository_ - [broken-guitar](https://github.com/broken-guitar)
 - **Kate Jamboretz** - _Initial Models & Routes, Delete Full Stack, Initial Unique Category Array Function, Update Route & Controller, Favicon, Initial Page Routing, README_ - [katejamboretz](https://github.com/katejamboretz)
 - **UCB Full Stack Development Program** - _provide generic MVP starter code & file structure for CRUD application_
+
+## Original Repo
+[Original Repo](https://github.com/broken-guitar/project-3)
 
 ## Acknowledgments
 
