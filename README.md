@@ -1,5 +1,8 @@
 # Resource Center
 
+![Screenshot of Resource Center Home Page](https://user-images.githubusercontent.com/58674283/106677870-67f74b80-656e-11eb-8086-0e4714ab954f.png?raw=true "Resource Center Home Page")
+
+
 ## Description
 We created a mobile responsive resource center for companies to store useful links and notes. Categories are designated by purple polygons, and can be clicked to open a modal filled with cards with links, descriptions and editing capabilities.
 
